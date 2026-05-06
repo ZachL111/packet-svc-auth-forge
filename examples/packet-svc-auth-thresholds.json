@@ -1,0 +1,17 @@
+{
+  "repo": "packet-svc-auth-forge",
+  "thresholds": {
+    "signal": 3,
+    "slack": 2,
+    "confidence": 1,
+    "drag": 4,
+    "ship": 203,
+    "watch": 104
+  },
+  "terms": [
+    "queue pressure",
+    "retry load",
+    "worker slack",
+    "session drift"
+  ]
+}

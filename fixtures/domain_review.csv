@@ -1,0 +1,6 @@
+name,focus,signal,slack,drag,confidence,score,lane
+baseline,queue pressure,74,20,27,51,138,watch
+stress,retry load,52,48,21,46,135,watch
+edge,worker slack,72,32,8,70,222,ship
+recovery,session drift,57,36,29,63,126,watch
+stale,queue pressure,68,23,32,87,150,ship
